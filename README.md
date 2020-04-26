@@ -1,2 +1,0 @@
-# BaitapLTM
-Lưu trữ
